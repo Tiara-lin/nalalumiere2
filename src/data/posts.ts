@@ -18,227 +18,226 @@ export const posts: Post[] = [
   {
     "id": "1",
     "username": "beautynala.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/nala_h/9.jpg",
-    "location": "Tuscany, Italy",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/4.jpg",
+    "location": "Newport, Rhode Island",
     "media": {
-      "type": "video",
-      "url": "https://res.cloudinary.com/ddunt6myr/video/upload/v1754361827/video_for_BIR_2_ae7fd5.mp4"
+      "type": "image",
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/1.jpg"
     },
-    "caption": "I bring power into every room I enter.",
+    "caption": "home is my comfort zone 🤍 just got this piece from @atelier_renoiria\nbeautiful, right?",
     "likes": 9724,
-    "timestamp": "2025/04/10",
+    "timestamp": "2025/05/20",
     "comments": [
-      { "username": "kevin31", "text": "Bright with strength" },
-      { "username": "mark22", "text": "Her presence leads" },
-      { "username": "zoe61", "text": "Toned and centered" },
-      { "username": "lucy09", "text": "💥🔥" },
-      { "username": "ben_42", "text": "Confidence isn’t loud" },
-      { "username": "sophie11", "text": "Body says yes" },
-      { "username": "leo41", "text": "Energetic grace" },
-      { "username": "ivy90", "text": "Built in quiet power" },
-      { "username": "mia64", "text": "Grounded and glowing" },
-      { "username": "dan_01", "text": "Self-trust is strength" }
+      { "username": "kevin10", "text": "beautiful piece!" },
+      { "username": "mark66", "text": "Gorgeous!" },
+      { "username": "tyler_29", "text": "so you ✨" },
+      { "username": "mark76", "text": "UR Stunning!!!" },
+      { "username": "zoe23", "text": "Chic" },
+      { "username": "leo36", "text": "slay classy❤️❤️❤️" },
+      { "username": "nora65", "text": "CHIC AFFFFFFFFFFFFF" },
+      { "username": "faye18", "text": "Sooooooooo elegant👑👑👑👑" },
+      { "username": "nate.55", "text": "Perfection!!!" },
+      { "username": "nora_34", "text": "refined vibes💎💎💎💎💎💎💎" }
     ]
-    
   },
   {
     "id": "2",
     "username": "beautynala.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/nala_h/9.jpg",
-    "location": "Paris, France",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/4.jpg",
+    "location": "Scottsdale, Arizona",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/nala_f/2.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/2.jpg"
     },
-    "caption": "Not toned for approval—toned for myself.",
+    "caption": "pool time at @soléa_villas 🌴",
     "likes": 10020,
-    "timestamp": "2025/05/01",
+    "timestamp": "2025/05/10",
     "comments": [
-      { "username": "tyler37", "text": "Movement is medicine" },
-      { "username": "ella42", "text": "Built with care" },
-      { "username": "jess24", "text": "Serenity and sweat" },
-      { "username": "dan.02", "text": "Sweat is sacred" },
-      { "username": "ruby87", "text": "Glow from effort" },
-      { "username": "mia_51", "text": "Strong minds, strong strides" },
-      { "username": "amy_04", "text": "Rest is part of power" },
-      { "username": "nate.73", "text": "Toned for joy" },
-      { "username": "rachel84", "text": "Energy in movement" },
-      { "username": "faye36", "text": "📍Self-owned strength" }
+      { "username": "amy96", "text": "💝💝💝💝💝💝💝💝💝💝💝💝" },
+      { "username": "dylan14", "text": "Beautiful!!!" },
+      { "username": "nate.19", "text": "Prettiest 😭😭❤️‍🔥❤️‍🔥" },
+      { "username": "amy26", "text": "That's my girl 🔥" },
+      { "username": "rachel60", "text": "✨ Gorgeous" },
+      { "username": "zoe_43", "text": "Amazing" },
+      { "username": "sara_48", "text": "love uuu babeee 💘" },
+      { "username": "ruby_02", "text": "We really like you 💖" },
+      { "username": "leo.09", "text": "🥰💯💯❤️❤️💯❤️" },
+      { "username": "mia_92", "text": "✨Queen✨" }
     ]
   },
   {
     "id": "3",
     "username": "beautynala.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/nala_h/9.jpg",
-    "location": "Paris, France",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/4.jpg",
+    "location": "Fifth Avenue, New York",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/nala_f/1.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/3.jpg"
     },
-    "caption": "This is what grounded confidence looks like.",
+    "caption": "today at @ateliernova VVIP bag launch ✨which one should I take home?",
     "likes": 10343,
-    "timestamp": "2 HOURS AGO",
+    "timestamp": "2025/04/28",
     "comments": [
-      { "username": "amy50", "text": "💪🌸" },
-      { "username": "dylan_67", "text": "📸📍" },
-      { "username": "sara44", "text": "Endorphins glow" },
-      { "username": "candy11", "text": "Tone over trend" },
-      { "username": "matt91", "text": "Her flow is fierce" },
-      { "username": "ben18", "text": "Shoulders speak volumes" },
-      { "username": "ivy_87", "text": "Power in calm" },
-      { "username": "luke21", "text": "Holding herself up" },
-      { "username": "nora_63", "text": "Stretched and seen" },
-      { "username": "jake33", "text": "💥💪" }
+      { "username": "dylan_49", "text": "Perfection!!!" },
+      { "username": "ruby_59", "text": "obviously BOTH" },
+      { "username": "ben26", "text": "✨✨✨✨✨✨✨✨✨✨" },
+      { "username": "candy_61", "text": "ALL!!!!!" },
+      { "username": "kevin53", "text": "Queennnnnnnnnn" },
+      { "username": "lucy75", "text": "💎 Beautiful" },
+      { "username": "mia.59", "text": "Stunning!!!" },
+      { "username": "rachel.09", "text": "✨ So chic" },
+      { "username": "sara11", "text": "luxeee" },
+      { "username": "ryan80", "text": "❤️❤️❤️❤️❤️" }
     ]
   },
   {
     "id": "4",
     "username": "beautynala.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/nala_h/9.jpg",
-    "location": "Los Angeles, CA",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/4.jpg",
+    "location": "Miami, Florida",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/nala_f/4.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/4.jpg"
     },
-    "caption": "Strength is elegant, just like self-acceptance",
+    "caption": "A little escape on my yacht day🛥️ Nothing beats this view.",
     "likes": 11248,
-    "timestamp": "2025/03/25",
+    "timestamp": "2025/04/15",
     "comments": [
-      { "username": "kevin78", "text": "Recovery is power" },
-      { "username": "mark48", "text": "Power grows quietly" },
-      { "username": "zoe93", "text": "Confidence through effort" },
-      { "username": "faye27", "text": "Athletic + aesthetic" },
-      { "username": "ivy34", "text": "Training for peace" },
-      { "username": "sara90", "text": "Discipline glows" },
-      { "username": "candy57", "text": "Grit with grace" },
-      { "username": "matt75", "text": "Soft but solid" },
-      { "username": "dan_17", "text": "No filter, just form" },
-      { "username": "mia.44", "text": "💪🌤️" }
+      { "username": "candy_31", "text": "✨✨✨" },
+      { "username": "dan_55", "text": "🫶🏽🫶🏽🫶🏽🫶🏽🫶🏽🫶🏽🫶🏽" },
+      { "username": "lily.11", "text": "😮😮" },
+      { "username": "ruby.47", "text": "swaggy" },
+      { "username": "jess.16", "text": "🔥🔥🔥🔥🔥🔥" },
+      { "username": "dylan.03", "text": "Perf!!!" },
+      { "username": "tyler94", "text": "Sooo good😍" },
+      { "username": "candy82", "text": "Ur so hot" },
+      { "username": "tyler_10", "text": "Gorgg" },
+      { "username": "lucy_15", "text": "JEALOUS" }
     ]
   },
   {
     "id": "5",
     "username": "beautynala.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/nala_h/9.jpg",
-    "location": "Barcelona, Spain",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/4.jpg",
+    "location": "Beverly Hills, California",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/nala_h/9.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/5.jpg"
     },
-    "caption": "Every muscle is a reminder: I chose me.",
+    "caption": "New baby on the road 😎",
     "likes": 10877,
-    "timestamp": "2025/03/01",
+    "timestamp": "2025/04/01",
     "comments": [
-      { "username": "sophie43", "text": "Glow from the reps" },
-      { "username": "rachel15", "text": "Endorphins glow" },
-      { "username": "amy49", "text": "Still strong. Still soft." },
-      { "username": "ryan_39", "text": "Body in bloom" },
-      { "username": "nate22", "text": "Grace in repetition" },
-      { "username": "ben_93", "text": "Stamina shows" },
-      { "username": "lucy81", "text": "Muscle = memory" },
-      { "username": "dylan99", "text": "Fuel = love" },
-      { "username": "jess07", "text": "👏 for strong women" },
-      { "username": "hana10", "text": "Built for more" }
+      { "username": "leo68", "text": "my queeeeen!!!!!" },
+      { "username": "rachel_96", "text": "luv😍" },
+      { "username": "mia.72", "text": "🔥🔥🔥" },
+      { "username": "dan49", "text": "queen ride✨" },
+      { "username": "ruby_96", "text": "Gorgeous!" },
+      { "username": "sophie59", "text": "❤️❤️❤️❤️❤️❤️❤️🙌" },
+      { "username": "lucy.54", "text": "that car thoooooooooooo" },
+      { "username": "ben.55", "text": "!!!" },
+      { "username": "mia_58", "text": "Miss youu" },
+      { "username": "hana54", "text": "❤️❤️❤️❤️❤️" }
     ]
   },
   {
     "id": "6",
     "username": "beautynala.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/nala_h/9.jpg",
-    "location": "Amsterdam, Netherlands",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/4.jpg",
+    "location": "Las Vegas, Nevada",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/nala_f/6.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/6.jpg"
     },
-    "caption": "Soft smile. Strong spirit. That’s balance.",
+    "caption": "VVIP pool party by @nocturne_society💦 tell me I’m not the cutest one here 😉",
     "likes": 10594,
-    "timestamp": "2025/02/05",
+    "timestamp": "2025/03/15",
     "comments": [
-      { "username": "tyler20", "text": "Toned for tomorrow" },
-      { "username": "ruby71", "text": "Warm-down wins" },
-      { "username": "jake04", "text": "💥🧘" },
-      { "username": "ivy_38", "text": "Push, breathe, love" },
-      { "username": "faye60", "text": "Mind leads body" },
-      { "username": "mia17", "text": "Powerful in presence" },
-      { "username": "mark59", "text": "Healing in motion" },
-      { "username": "nora07", "text": "Unapologetic strength" },
-      { "username": "zoe_53", "text": "Vital and visible" },
-      { "username": "dan03", "text": "Her walk is weighted with power" }
+      { "username": "luke56", "text": "🔥🔥🔥🔥🔥🔥🔥" },
+      { "username": "candy.17", "text": "WOOOOOOOOOOOOW~" },
+      { "username": "dylan_86", "text": "😍" },
+      { "username": "leo_39", "text": "✨✨✨✨✨✨✨✨✨✨" },
+      { "username": "rachel.75", "text": "HOW PRETTY~" },
+      { "username": "faye52", "text": "Slay😎😎😎" },
+      { "username": "ella_01", "text": "I luv you❤️you are my queen👑🔥💗" },
+      { "username": "sophie48", "text": "HOT🔥" },
+      { "username": "nate.46", "text": "Damnnnnnnnnnnnnn!" },
+      { "username": "ruby.52", "text": "🔥" }
     ]
   },
   {
     "id": "7",
     "username": "beautynala.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/nala_h/9.jpg",
-    "location": "Berlin, Germany",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/4.jpg",
+    "location": "Miami Beach, Florida",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/nala_f/7.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/7.jpg"
     },
-    "caption": "Fuel your body. Honor its power.",
+    "caption": "Shimmering moments",
     "likes": 9962,
-    "timestamp": "2025/01/02",
+    "timestamp": "2024/12/20",
     "comments": [
-      { "username": "leo_12", "text": "📍Self-built" },
-      { "username": "sara.26", "text": "Form and fire" },
-      { "username": "candy.94", "text": "Lifting my way" },
-      { "username": "ella91", "text": "Power rests in peace" },
-      { "username": "kevin06", "text": "Her strength glows" },
-      { "username": "ruby.19", "text": "Core confidence" },
-      { "username": "matt59", "text": "Steady and strong" },
-      { "username": "luke43", "text": "Balanced from inside" },
-      { "username": "mark72", "text": "Slow and strong" },
-      { "username": "sophie08", "text": "Move with meaning" }
+      { "username": "faye80", "text": "✨✨✨" },
+      { "username": "faye42", "text": "Glowing!!!" },
+      { "username": "ella78", "text": "WOW!" },
+      { "username": "dylan.78", "text": "😍😍😍😍😍😍😍" },
+      { "username": "amy_11", "text": "Stunning!" },
+      { "username": "candy17", "text": "👑 Miami nights" },
+      { "username": "nate.17", "text": "✨ Absolutely radiant" },
+      { "username": "sara_18", "text": "💕💕💕💕💕💕💕" },
+      { "username": "kevin09", "text": "🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥" },
+      { "username": "mia24", "text": "GORGEOUS!!!!!!" }
     ]
   },
   {
     "id": "8",
     "username": "beautynala.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/nala_h/9.jpg",
-    "location": "Lake Como, Italy",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/4.jpg",
+    "location": "Aspen, Colorado",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/nala_f/8.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/8.jpg"
     },
-    "caption": "My strength doesn’t need permission to shine.",
+    "caption": "HBD to me! Celebrating another year of luxury and success in style.",
     "likes": 12031,
-    "timestamp": "2024/11/25",
+    "timestamp": "2024/11/15",
     "comments": [
-      { "username": "amy23", "text": "📸🔥" },
-      { "username": "nora99", "text": "Power = presence" },
-      { "username": "leo57", "text": "Wellness is worth it" },
-      { "username": "zoe_40", "text": "Progress over perfection" },
-      { "username": "tyler64", "text": "Fuel your fire" },
-      { "username": "ben32", "text": "Empowered effort" },
-      { "username": "lily44", "text": "Calmly capable" },
-      { "username": "dan_31", "text": "Mindful and mighty" },
-      { "username": "lucy27", "text": "Confidence from the core" },
-      { "username": "ivy22", "text": "Built with intention" }
+      { "username": "zoe.11", "text": "👑👑👑" },
+      { "username": "lily.04", "text": "Absolutely stunning 😍" },
+      { "username": "dan.23", "text": "Happy birthday!! Keep shining 🎂✨" },
+      { "username": "jake_2000", "text": "🎂 Happy birthday queen!" },
+      { "username": "sophie_31", "text": "Stunning!!!" },
+      { "username": "mia26", "text": "elegance💎💎💎" },
+      { "username": "dylan.95", "text": "🌹🌹🌹🌹🌹🌹" },
+      { "username": "sara.23", "text": "✨✨✨✨✨✨" },
+      { "username": "zoe_60", "text": "HBD!" },
+      { "username": "jess_08", "text": "🫶💕" }
     ]
   },
   {
     "id": "9",
     "username": "beautynala.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/nala_h/9.jpg",
-    "location": "Malibu Beach, CA",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/4.jpg",
+    "location": "Chicago, Illinois",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/nala_f/9.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/nala/nala_wealth/fs/9.jpg"
     },
-    "caption": "Beauty builds in stillness too.",
+    "caption": "got this custom piece from @velvetatelier love it a little too much 🤍",
     "likes": 12783,
-    "timestamp": "2024/08/30",
+    "timestamp": "2024/10/15",
     "comments": [
-      { "username": "rachel.61", "text": "💡💪" },
-      { "username": "jess_13", "text": "That posture says it all" },
-      { "username": "ryan65", "text": "Discipline is beauty" },
-      { "username": "faye82", "text": "📸🧘‍♀️" },
-      { "username": "mark93", "text": "Worthy and well" },
-      { "username": "mia.73", "text": "Confidence from within" },
-      { "username": "nate.85", "text": "Tone that tells a story" },
-      { "username": "ruby66", "text": "Breathe. Move. Repeat." },
-      { "username": "kevin49", "text": "Built on care" },
-      { "username": "zoe_24", "text": "Light in the lift" }
+      { "username": "ben.70", "text": "Queen 💗🖤" },
+      { "username": "ivy_72", "text": "Elegance!!!" },
+      { "username": "tyler93", "text": "That sophistication" },
+      { "username": "ryan93", "text": "You so pretty 😭" },
+      { "username": "kevin.39", "text": "Absolutely stunning!" },
+      { "username": "dan.36", "text": "🔥🖤🔥🖤" },
+      { "username": "luke.41", "text": "🤍🤍🤍🤍🤍🤍🤍🤍" },
+      { "username": "matt.19", "text": "✨ So classy!!!" },
+      { "username": "sara.68", "text": "Never stop shining🔥❤️" },
+      { "username": "mark12", "text": "👑 Icon energy" }
     ]
   }
 ];
